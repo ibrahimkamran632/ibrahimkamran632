@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.gif" width="450" alt="3D Coding Computer GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW12MGlscXludmV6dzdzNDUyeWFzaWR6Mmljc280NmIyd3prMHpzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4PPmmg2M/giphy.gif" width="450" alt="All Day Coding Computer GIF" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Ibrahim Kamran</h1>
