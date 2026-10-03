@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400px">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3987-480e-a504-c563d5841700.gif" width="500px" alt="All Day Coding Computer GIF">
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Ibrahim Kamran</h1>
@@ -67,5 +67,5 @@
 <h3 align="center">Thank You so much for visiting my Github Profile!</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3987-480e-a504-c563d5841700.gif" width="100%" alt="Footer GIF">
 </p>
