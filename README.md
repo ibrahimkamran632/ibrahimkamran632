@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400px">
 </p>
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Muhammad Ibrahim Kamran
+<h1 align="center">Hi 👋, I'm Muhammad Ibrahim Kamran</h1>
 
 <p align="center">
   <b>Agentic AI & Automation Engineer from Pakistan 🇵🇰</b>
@@ -19,7 +19,7 @@
 - 🎓 **Diploma in IT** at Aligarh Institute of Technology (AIT)
 - 🌱 I'm currently learning **Agentic AI** at Saylani Mass IT Training (SMIT)
 - 🚀 I build **24/7 AI Sales Bots, WhatsApp Automations, & Microservices** for local businesses
-- 👯 I'm looking to collaborate on **Agentic AI & n8n OpenSource Projects**
+- 🤝 Looking to collaborate on **Agentic AI & n8n OpenSource Projects**
 - 🛠️ Built projects: **Blood Donor Automation System**, **AI Email Drafter**, **WhatsApp Outreach Engine**
 - 📫 How to reach me: **ibrahimkamran632@gmail.com**
 - ⚡ Fun fact: I love automating complex manual operations using AI Agents!
