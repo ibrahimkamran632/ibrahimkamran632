@@ -2,10 +2,10 @@
   <img src="./header.gif" width="450" alt="3D Coding Computer GIF" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Muhammad Ibrahim Kamran</h1>
+<h1 align="center">Hi ??, I'm Muhammad Ibrahim Kamran</h1>
 
 <p align="center">
-  <b>Agentic AI & Automation Engineer from Pakistan 🇵🇰</b>
+  <b>Agentic AI & Automation Engineer from Pakistan ????</b>
 </p>
 
 <p align="center">
@@ -14,19 +14,19 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## ????? About Me
 
-- 🎓 **Diploma in IT** at Aligarh Institute of Technology (AIT)
-- 🌱 I'm currently learning **Agentic AI** at Saylani Mass IT Training (SMIT)
-- 🚀 I build **24/7 AI Sales Bots, WhatsApp Automations, & Microservices** for local businesses
-- 🤝 Looking to collaborate on **Agentic AI & n8n OpenSource Projects**
-- 🛠️ Built projects: **Blood Donor Automation System**, **AI Email Drafter**, **WhatsApp Outreach Engine**
-- 📫 How to reach me: **ibrahimkamran632@gmail.com**
-- ⚡ Fun fact: I love automating complex manual operations using AI Agents!
+- ?? **Diploma in IT** at Aligarh Institute of Technology (AIT)
+- ?? I'm currently learning **Agentic AI** at Saylani Mass IT Training (SMIT)
+- ?? I build **24/7 AI Sales Bots, WhatsApp Automations, & Microservices** for local businesses
+- ?? Looking to collaborate on **Agentic AI & n8n OpenSource Projects**
+- ??? Built projects: **Blood Donor Automation System**, **AI Email Drafter**, **WhatsApp Outreach Engine**
+- ?? How to reach me: **ibrahimkamran632@gmail.com**
+- ? Fun fact: I love automating complex manual operations using AI Agents!
 
 ---
 
-## 🚀 Technologies I know
+## ?? Technologies I know
 
 - **Core Skills & AI**: Claude Code, Advanced Prompt Engineering, Python, JavaScript, HTML, CSS
 - **Frameworks & Agents**: CrewAI, LangChain, OpenAI API, Anthropic Claude API, FastAPI
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 My Github Stats
+## ?? My Github Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ibrahimkamran632&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -57,11 +57,5 @@
 </p>
 
 ---
-
-## ❤️ Views and Followers
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ibrahimkamran632&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
 
 <h3 align="center">Thank You so much for visiting my Github Profile!</h3>
