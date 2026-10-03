@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.gif" width="450" alt="3D Coding Computer GIF" />
+  <img src="https://raw.githubusercontent.com/PKief/PKief/main/assets/animated_code.gif" width="450" alt="3D Computer Coding GIF" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Ibrahim Kamran</h1>
