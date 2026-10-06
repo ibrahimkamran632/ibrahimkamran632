@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUGG4dbv5BLHEviM/giphy.gif" width="400px" alt="3D Coding Computer GIF" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400px" alt="Coding GIF" />
 
-# Hi 👋, I'm Muhammad Ibrahim Kamran
+# 👋, I'm Muhammad Ibrahim Kamran
 
 ### Freelancer from Pakistan 🇵🇰
 
@@ -41,8 +41,8 @@
 ### 📊 My Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimkamran632&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimkamran632&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadibrahimkamran&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadibrahimkamran&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
