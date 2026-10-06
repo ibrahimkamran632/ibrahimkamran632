@@ -38,11 +38,11 @@
 
 ---
 
-### 📊 My Github Stats
+### 📊 My Github Stats & Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadibrahimkamran&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadibrahimkamran&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadibrahimkamran&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" width="48%" />
 </p>
 
 ---
